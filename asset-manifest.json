@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/facebook_clone/static/css/main.7424d5c6.chunk.css",
-    "main.js": "/facebook_clone/static/js/main.0033ffab.chunk.js",
-    "main.js.map": "/facebook_clone/static/js/main.0033ffab.chunk.js.map",
-    "runtime-main.js": "/facebook_clone/static/js/runtime-main.6207a283.js",
-    "runtime-main.js.map": "/facebook_clone/static/js/runtime-main.6207a283.js.map",
-    "static/js/2.fe5b1c01.chunk.js": "/facebook_clone/static/js/2.fe5b1c01.chunk.js",
-    "static/js/2.fe5b1c01.chunk.js.map": "/facebook_clone/static/js/2.fe5b1c01.chunk.js.map",
-    "static/js/3.c4c8dff0.chunk.js": "/facebook_clone/static/js/3.c4c8dff0.chunk.js",
-    "static/js/3.c4c8dff0.chunk.js.map": "/facebook_clone/static/js/3.c4c8dff0.chunk.js.map",
+    "main.js": "/facebook_clone/static/js/main.d11d4a3f.chunk.js",
+    "main.js.map": "/facebook_clone/static/js/main.d11d4a3f.chunk.js.map",
+    "runtime-main.js": "/facebook_clone/static/js/runtime-main.c814f3c2.js",
+    "runtime-main.js.map": "/facebook_clone/static/js/runtime-main.c814f3c2.js.map",
+    "static/js/2.113e4fbd.chunk.js": "/facebook_clone/static/js/2.113e4fbd.chunk.js",
+    "static/js/2.113e4fbd.chunk.js.map": "/facebook_clone/static/js/2.113e4fbd.chunk.js.map",
+    "static/js/3.9432415c.chunk.js": "/facebook_clone/static/js/3.9432415c.chunk.js",
+    "static/js/3.9432415c.chunk.js.map": "/facebook_clone/static/js/3.9432415c.chunk.js.map",
     "index.html": "/facebook_clone/index.html",
     "static/css/main.7424d5c6.chunk.css.map": "/facebook_clone/static/css/main.7424d5c6.chunk.css.map",
-    "static/js/2.fe5b1c01.chunk.js.LICENSE.txt": "/facebook_clone/static/js/2.fe5b1c01.chunk.js.LICENSE.txt",
+    "static/js/2.113e4fbd.chunk.js.LICENSE.txt": "/facebook_clone/static/js/2.113e4fbd.chunk.js.LICENSE.txt",
     "static/media/groups.4226ca96.svg": "/facebook_clone/static/media/groups.4226ca96.svg",
     "static/media/home.70eb49d5.svg": "/facebook_clone/static/media/home.70eb49d5.svg",
     "static/media/logo.4b313479.png": "/facebook_clone/static/media/logo.4b313479.png",
@@ -21,9 +21,9 @@
     "static/media/watch.bde61721.svg": "/facebook_clone/static/media/watch.bde61721.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6207a283.js",
-    "static/js/2.fe5b1c01.chunk.js",
+    "static/js/runtime-main.c814f3c2.js",
+    "static/js/2.113e4fbd.chunk.js",
     "static/css/main.7424d5c6.chunk.css",
-    "static/js/main.0033ffab.chunk.js"
+    "static/js/main.d11d4a3f.chunk.js"
   ]
 }
