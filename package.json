@@ -1,6 +1,6 @@
 {
     "homepage": "https://vinodbalakumar.github.io/facebook_clone/",
-    "name": "fb-clone",
+    "name": "facebook_clone",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
